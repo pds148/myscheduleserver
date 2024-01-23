@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sparta.myscheduleserver.MyscheduleserverApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-22T07:39:25" hostname="DESKTOP-3QKMTHP" time="1.09">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.sparta.myscheduleserver.MyscheduleserverApplicationTests" time="1.09"/>
+  <system-out><![CDATA[16:39:23.055 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.sparta.myscheduleserver.MyscheduleserverApplicationTests]: MyscheduleserverApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:39:23.203 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.sparta.myscheduleserver.MyscheduleserverApplication for test class com.sparta.myscheduleserver.MyscheduleserverApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2024-01-22T16:39:23.831+09:00  INFO 2960 --- [    Test worker] c.s.m.MyscheduleserverApplicationTests   : Starting MyscheduleserverApplicationTests using Java 17.0.9 with PID 2960 (started by bdong in C:\Users\bdong\Documents\myscheduleserver)
+2024-01-22T16:39:23.833+09:00  INFO 2960 --- [    Test worker] c.s.m.MyscheduleserverApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-01-22T16:39:25.475+09:00  INFO 2960 --- [    Test worker] c.s.m.MyscheduleserverApplicationTests   : Started MyscheduleserverApplicationTests in 1.99 seconds (process running for 3.89)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
